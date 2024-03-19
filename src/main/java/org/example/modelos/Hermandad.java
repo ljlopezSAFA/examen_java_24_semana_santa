@@ -19,7 +19,7 @@ public class Hermandad {
     private String nombreCorto;
     private Double cuotaHermano;
     private TipoCuota tipoCuota;
-    private Double importeCuota;
+    private Integer numNazarenos;
     private JuntaGobierno juntaGobierno;
     private String sedeCanonica;
     private DiaSalida diaSalida;

@@ -15,8 +15,10 @@ public class InformeHermandad {
     private  Integer totalHermanos;
     private Integer totalTitulares;
     private Integer totalCostaleros;
+    private Double recaudacionCuotas;
     private Integer totalPasos;
     private Map<Paso, Integer> costalerosPorPaso;
     private Map<Paso, Integer> pasoTotalFiguras;
+    private Map<Paso, Integer> musicosPorPaso;
 
 }
