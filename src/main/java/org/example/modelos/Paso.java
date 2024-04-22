@@ -17,4 +17,5 @@ public class Paso {
     private Integer numCostaleros;
     private Integer numCuadrillas;
     private Integer orden;
+    private Banda banda;
 }
